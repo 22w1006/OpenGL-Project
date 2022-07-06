@@ -1,0 +1,95 @@
+﻿  main.cpp
+C:\Users\jxzen\Desktop\C++\Hand\include\FreeImage.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\jxzen\Desktop\C++\Hand\src\skeletal_mesh.h(361,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\jxzen\Desktop\C++\Hand\src\main.cpp(79,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jxzen\Desktop\C++\Hand\src\main.cpp(205,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jxzen\Desktop\C++\Hand\src\main.cpp(207,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jxzen\Desktop\C++\Hand\src\main.cpp(208,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jxzen\Desktop\C++\Hand\src\main.cpp(212,27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jxzen\Desktop\C++\Hand\src\main.cpp(270,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jxzen\Desktop\C++\Hand\src\main.cpp(307,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jxzen\Desktop\C++\Hand\src\main.cpp(310,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jxzen\Desktop\C++\Hand\src\main.cpp(347,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jxzen\Desktop\C++\Hand\src\main.cpp(351,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jxzen\Desktop\C++\Hand\src\main.cpp(360,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jxzen\Desktop\C++\Hand\src\main.cpp(419,128): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\utility(249,55): warning C4267: “初始化”: 从“size_t”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=unsigned int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xmemory(707): message : 查看对正在编译的函数 模板 实例化“std::pair<const std::string,unsigned int>::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64,0>(std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64> &&) noexcept”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xmemory(714): message : 查看对正在编译的函数 模板 实例化“std::pair<const std::string,unsigned int>::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64,0>(std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64> &&) noexcept”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xtree(811): message : 查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64>>(_Alloc &,_Objty *const ,std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::_Tree_node<std::pair<const std::string,unsigned int>,std::_Default_allocator_traits<std::allocator<std::pair<const std::string,unsigned int>>>::void_pointer>>,
+              _Ty=std::pair<const std::string,unsigned int>,
+              _Objty=std::pair<const std::string,unsigned int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xtree(812): message : 查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64>>(_Alloc &,_Objty *const ,std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::_Tree_node<std::pair<const std::string,unsigned int>,std::_Default_allocator_traits<std::allocator<std::pair<const std::string,unsigned int>>>::void_pointer>>,
+              _Ty=std::pair<const std::string,unsigned int>,
+              _Objty=std::pair<const std::string,unsigned int>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xtree(1007): message : 查看对正在编译的函数 模板 实例化“std::_Tree_temp_node<std::allocator<std::_Tree_node<std::pair<const std::string,unsigned int>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_Tree_temp_node<_Ty>(_Alnode &,std::_Tree_node<std::pair<const std::string,unsigned int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,_Ty &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const std::string,unsigned int>>,
+              _Ty=std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64>,
+              _Alnode=std::allocator<std::_Tree_node<std::pair<const std::string,unsigned int>,std::_Default_allocator_traits<std::allocator<std::pair<const std::string,unsigned int>>>::void_pointer>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xtree(1020): message : 查看对正在编译的函数 模板 实例化“std::_Tree_temp_node<std::allocator<std::_Tree_node<std::pair<const std::string,unsigned int>,std::_Default_allocator_traits<_Alloc>::void_pointer>>>::_Tree_temp_node<_Ty>(_Alnode &,std::_Tree_node<std::pair<const std::string,unsigned int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,_Ty &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const std::string,unsigned int>>,
+              _Ty=std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64>,
+              _Alnode=std::allocator<std::_Tree_node<std::pair<const std::string,unsigned int>,std::_Default_allocator_traits<std::allocator<std::pair<const std::string,unsigned int>>>::void_pointer>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xtree(1044): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_node<std::pair<const std::string,unsigned int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Emplace<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64>>(std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const std::string,unsigned int>>,
+              _Kty=std::string,
+              _Ty=unsigned int,
+              _Pr=std::less<std::string>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xtree(1045): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_node<std::pair<const std::string,unsigned int>,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Emplace<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64>>(std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64> &&)”的引用
+          with
+          [
+              _Alloc=std::allocator<std::pair<const std::string,unsigned int>>,
+              _Kty=std::string,
+              _Ty=unsigned int,
+              _Pr=std::less<std::string>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\map(165): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const std::string,unsigned int>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::emplace<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64>>(std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64> &&)”的引用
+          with
+          [
+              _Kty=std::string,
+              _Ty=unsigned int,
+              _Pr=std::less<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,unsigned int>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\map(165): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const std::string,unsigned int>>>>,bool> std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::emplace<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64>>(std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64> &&)”的引用
+          with
+          [
+              _Kty=std::string,
+              _Ty=unsigned int,
+              _Pr=std::less<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,unsigned int>>
+          ]
+C:\Users\jxzen\Desktop\C++\Hand\src\skeletal_mesh.h(245): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const std::string,unsigned int>>>>,bool> std::map<std::string,unsigned int,std::less<std::string>,std::allocator<std::pair<const std::string,unsigned int>>>::insert<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64>,0>(_Valty &&)”的引用
+          with
+          [
+              _Valty=std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64>
+          ]
+C:\Users\jxzen\Desktop\C++\Hand\src\skeletal_mesh.h(245): message : 查看对正在编译的函数 模板 实例化“std::pair<std::_Tree_iterator<std::_Tree_val<std::_Tree_simple_types<std::pair<const std::string,unsigned int>>>>,bool> std::map<std::string,unsigned int,std::less<std::string>,std::allocator<std::pair<const std::string,unsigned int>>>::insert<std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64>,0>(_Valty &&)”的引用
+          with
+          [
+              _Valty=std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64>
+          ]
+  Hand.vcxproj -> C:\Users\jxzen\Desktop\C++\Hand\bin\x64\Debug\Hand.exe
+  复制了 0 个文件
+  复制了 0 个文件
