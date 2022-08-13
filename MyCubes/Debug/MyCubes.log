@@ -1,0 +1,14 @@
+﻿MyCubes.obj : error LNK2019: 无法解析的外部符号 _glfwInit，函数 _main 中引用了该符号
+MyCubes.obj : error LNK2019: 无法解析的外部符号 _glfwTerminate，函数 _main 中引用了该符号
+MyCubes.obj : error LNK2019: 无法解析的外部符号 _glfwWindowHint，函数 _main 中引用了该符号
+MyCubes.obj : error LNK2019: 无法解析的外部符号 _glfwCreateWindow，函数 _main 中引用了该符号
+MyCubes.obj : error LNK2019: 无法解析的外部符号 _glfwWindowShouldClose，函数 _main 中引用了该符号
+MyCubes.obj : error LNK2019: 无法解析的外部符号 _glfwSetWindowShouldClose，函数 "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z) 中引用了该符号
+MyCubes.obj : error LNK2019: 无法解析的外部符号 _glfwSetFramebufferSizeCallback，函数 _main 中引用了该符号
+MyCubes.obj : error LNK2019: 无法解析的外部符号 _glfwPollEvents，函数 _main 中引用了该符号
+MyCubes.obj : error LNK2019: 无法解析的外部符号 _glfwGetKey，函数 "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z) 中引用了该符号
+MyCubes.obj : error LNK2019: 无法解析的外部符号 _glfwMakeContextCurrent，函数 _main 中引用了该符号
+MyCubes.obj : error LNK2019: 无法解析的外部符号 _glfwSwapBuffers，函数 _main 中引用了该符号
+MyCubes.obj : error LNK2019: 无法解析的外部符号 _glfwGetProcAddress，函数 _main 中引用了该符号
+C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x86\glfw3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\build\MyCubes\Debug\MyCubes.exe : fatal error LNK1120: 12 个无法解析的外部命令
