@@ -1,0 +1,10 @@
+^C:\USERS\JXZEN\DESKTOP\C++\GLFW\GLFW-3.3.7\SRC\CMAKELISTS.TXT
+setlocal
+D:\bin\cmake.exe -SC:/Users/jxzen/Desktop/C++/GLFW/glfw-3.3.7 -BC:/Users/jxzen/Desktop/C++/GLFW/glfw-3.3.7/build --check-stamp-file C:/Users/jxzen/Desktop/C++/GLFW/glfw-3.3.7/build/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\input.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\vulkan.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\win32_init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\win32_joystick.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\win32_monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\win32_time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\win32_thread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\win32_window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\wgl_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\egl_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\osmesa_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\mappings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\build\src\glfw_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\include\GLFW\glfw3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\include\GLFW\glfw3native.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\win32_platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\win32_joystick.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\wgl_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\egl_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\osmesa_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5D7C3B3A-5996-3BFD-85E5-6326E0219417}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5B4EA7DC-1896-3CBB-BB4D-4333F659FB56}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
