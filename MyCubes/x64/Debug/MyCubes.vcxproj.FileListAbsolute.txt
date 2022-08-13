@@ -1,0 +1,2 @@
+C:\Users\jxzen\Desktop\C++\GLFW\glfw-3.3.7\build\MyCubes\x64\Debug\MyCubes.exe
+C:\Users\jxzen\Desktop\C++\MyCubes\x64\Debug\MyCubes.exe
